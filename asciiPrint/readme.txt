@@ -1,4 +1,4 @@
-This is a sumer simple asseembly program that takes in some bytes of data and outputs those as hex in the terminal.
+This is a super simple asseembly program that takes in some bytes of data and outputs those as hex in the terminal.
 
 
 BUILDING & RUNNING:
